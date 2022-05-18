@@ -1,4 +1,5 @@
-# Telecom_Churn-Analysis
+# Telecom_Churn- EDA, Model Building, Model Tuning
+
 
 #### Intro
 This project analyzes a telecom company’s dataset, with respect to customer churn.
